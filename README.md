@@ -137,3 +137,4 @@ India
 - Convolution logic is implemented manually using NumPy.
 - No OpenCV or high-level image processing libraries are used.
 - AI tools were used only for clarification and debugging.
+
